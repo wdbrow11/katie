@@ -13,6 +13,7 @@ var shoutouts = [
   "how sweet, nice, and kind you where. You really made me feel welcome and I love talking with you :)",
   "I like talking to you, you're a very nice person with a great personality and I also like the aesthetics in your websites.",
   "Your enthusiasm about everything. You are always so excited about even the smallest things and it pumps everyone up along the way.",
+  "I like talking to you, you're very friendly and happy and it's really funny talking about our crushes on Carbon's employees. Also thank you for the ride yesterday."
 ]
 
 for (x of shoutouts) {
