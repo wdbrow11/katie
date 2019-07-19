@@ -19,3 +19,5 @@ var shoutouts = [
 for (x of shoutouts) {
   $("#shoutout-container").append("<p>" + x + "</p> <br>");
 }
+
+// 764
